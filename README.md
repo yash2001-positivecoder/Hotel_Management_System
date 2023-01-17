@@ -3,4 +3,4 @@ A Database Management System based project built using Django, MySQL, HTML and C
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1qHfamX4wBemCf6_GXv3VzsKiw7XVXgP_/view?usp=share_link)
+![](Screenshots/home.png)
